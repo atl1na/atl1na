@@ -1,4 +1,4 @@
-- 👋 Hello, I’m atl1na, or more formally, Lina.
+- 👋 Hello, I’m atl1na or more formally, Lina.
 - 💻 This is where I host my personal coding/computer science projects.
 - 🌱 I’m currently learning machine learning subjects.
 - 👀 I’m interested in a wide variety of subjects, mainly concerning vintage hardware.
